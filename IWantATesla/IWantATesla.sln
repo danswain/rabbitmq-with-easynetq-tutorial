@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWantATesla.WebApi", "IWantATesla.WebApi\IWantATesla.WebApi.csproj", "{F1603411-CEB3-4A5A-80FA-DE2BC3757351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessor", "OrderProcessor\OrderProcessor.csproj", "{A9EAE2A2-5FFD-4263-8F9D-86292EE8142E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWantATesla.Messages", "IWantATesla.Messages\IWantATesla.Messages.csproj", "{3E41ACF1-6157-403D-B63A-CB55FBE21868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1603411-CEB3-4A5A-80FA-DE2BC3757351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1603411-CEB3-4A5A-80FA-DE2BC3757351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1603411-CEB3-4A5A-80FA-DE2BC3757351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1603411-CEB3-4A5A-80FA-DE2BC3757351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EAE2A2-5FFD-4263-8F9D-86292EE8142E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EAE2A2-5FFD-4263-8F9D-86292EE8142E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EAE2A2-5FFD-4263-8F9D-86292EE8142E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EAE2A2-5FFD-4263-8F9D-86292EE8142E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E41ACF1-6157-403D-B63A-CB55FBE21868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E41ACF1-6157-403D-B63A-CB55FBE21868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E41ACF1-6157-403D-B63A-CB55FBE21868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E41ACF1-6157-403D-B63A-CB55FBE21868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
